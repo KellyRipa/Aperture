@@ -13,7 +13,7 @@
     .w3-half img:hover{opacity:1}
     </style>
   </head>
-<body> 
+<body>
 
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
@@ -93,7 +93,7 @@
   </div>
   
   <div class="w3-container" id="service">
-    <p>Home owners often overlook windows when performing routine cleaning. Many often don't even consider it at all. Still, no matter how well-designed and decorated your living areas are, a filthy window can overshadow your beautiful décor. Clean windows make a difference in the overall atmosphere of your home. Washing a few windows may sound simple, but it’s truly It is more than just “wiping off the smudge on the glass.” Instead of doing the work yourself, hire a professional to save you time and effort. In addition to the glass, we also clean screens and tracks. We unfortunately do not disassemble and clean storm windows.
+    <p>Home owners often overlook windows when performing routine cleaning. Many often don't consider it at all. Still, no matter how well-designed and decorated your living areas are, a filthy window can overshadow your beautiful décor. Clean windows make a difference in the overall atmosphere of your home. Washing a few windows may sound simple, but it’s truly It is more than just “wiping off the smudge on the glass.” Instead of doing the work yourself, hire a professional to save you time and effort. In addition to the glass, we also clean screens and tracks. We unfortunately do not disassemble and clean storm windows.
     </p>
   </div>
 
@@ -104,7 +104,7 @@
     <hr style="width:50px;border:5px solid red" class="w3-round">
   </div>
   <div class="w3-container" id="contact">
-    <p>Estimates can typically be done with your address provided and a quick look at Google Earth. Or you can count up the windows yourself and leave your details in the form below. Express your written count in 'panes'; i.e. one window with 2 sliding pieces and 1 fixed in the middle is 3 panes. Please specify if you want a price for inside & outside, outside only, or both. <br>All estimate prices include cleaning screens and the tracks unless you would like to omit one or both of those services.</p>
+    <p>Estimates can typically be done with your address provided and a quick look at Google Earth. Or you can count up the windows yourself and leave your details in the form below. Express your written count in 'panes'; i.e. one window with 2 sliding pieces and 1 fixed in the middle is 3 panes. Please specify if you want a price for inside & outside, outside only, or both.<br>All estimate prices include cleaning screens and the tracks unless you would like to omit one or both of those services.</p>
     <form action="/action_page.php" target="_blank">
       <div class="w3-section">
         <label>Name</label>
