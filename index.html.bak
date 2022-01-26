@@ -34,7 +34,7 @@
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
   <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
-  <span>Menu</span> <a href="tel:+17074353662‬" class="w3-bar-item"> (707)-435-3662</a>
+  <a href="tel:+17074353662‬" class="w3-bar-item"> (707)-435-3662</a>
 </header>
 
 <!-- Overlay effect when opening sidebar on small screens -->
@@ -82,7 +82,7 @@
   
   <div class="w3-container" id="about">
     
-    <p>We specialize in residential service, so you can be certain that your home will be respected and cleaning will be done safely and efficiently. We do not use any cleaning solutions with harsh chemicals and our soap does not leave any residual odor. At this time, we only perform work on Ground Floor or 1st story windows. Anything that requires a ladder to reach is NOT considered Ground Floor work. Because we don't service jobs requiring ladders and other expensive equipment, the savings can be passed on to you resulting in a lower price compared to the competition. 
+    <p>We specialize in residential service, so you can be certain that your home will be respected and cleaning will be done safely and efficiently. We do not use any cleaning solutions with harsh chemicals and our soap does not leave any residual odor.<br>At this time, we only perform work on Ground Floor or 1st story windows. Anything that requires a ladder to reach is NOT considered Ground Floor work. Because we don't service jobs requiring ladders and other expensive equipment, the savings can be passed on to you resulting in a lower price compared to the competition. 
     </p>
   </div>
   
