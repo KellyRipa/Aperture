@@ -28,6 +28,7 @@
     <a href="#service" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Service</a> 
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
 	<a href="tel:+17074353662‬" class="w3-bar-item">Call/Text <br>(707)-435-3662‬</a>
+	<img src="img/Logo2.png" alt="logo">
   </div>
 </nav>
 
@@ -93,7 +94,7 @@
   </div>
   
   <div class="w3-container" id="service">
-    <p>Home owners often overlook windows when performing routine cleaning. Many don't even consider it at all. Still, no matter how well-designed and decorated your living areas are, a filthy window can overshadow your beautiful décor. Clean windows make a difference in the overall atmosphere of your home. Washing a few windows may sound simple, but it’s more than just “wiping off the smudge on the glass.” Instead of doing the work yourself, hire a professional to save you time and effort. In addition to the glass, we also clean screens and tracks. We unfortunately do not disassemble and clean storm windows.
+    <p>Home owners often overlook windows when performing routine cleaning. Many don't even consider it at all. Still, no matter how well-designed and decorated your living areas are, a filthy window can overshadow your beautiful décor. Clean windows make a difference in the overall atmosphere of your home. Washing a few windows may sound simple, but to get the best result you need more than just a rag and over-the-counter cleanser. Instead of doing the work yourself, hire a professional to save you time and effort. In addition to the glass, we also clean screens and tracks. We unfortunately do not disassemble and clean storm windows.
     </p>
   </div>
 
