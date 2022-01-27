@@ -50,8 +50,11 @@
   </div>
   
   <!-- Photo grid (modal) -->
+  <div><h1 class="w3-xxxlarge w3-text-red"><b>Showcase.</b></h1>
+  
+	</div>
+  
   <div class="w3-row-padding">
-      <h1 class="w3-xxxlarge w3-text-red"><b>Showcase.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
     <div class="w3-half">
       <img src="img/showcase1.jpg" style="width:100%" onclick="onClick(this)" alt="Cat approved work">
@@ -83,7 +86,7 @@
   
   <div class="w3-container" id="about">
     
-    <p>We specialize in residential service, so you can be certain that your home will be respected and cleaning will be done safely and efficiently. We do not use any cleaning solutions with harsh chemicals and our soap does not leave any residual odor.<br>At this time, we only perform work on Ground Floor or 1st story windows. Anything that requires a ladder to reach is NOT considered Ground Floor work. Because we don't service jobs requiring ladders and other expensive equipment, the savings can be passed on to you resulting in a lower price compared to the competition. 
+    <p>With over 10 years of experience, we specialize in residential service so you can be certain that your home will be respected and cleaning will be done safely and efficiently. We do not use any cleaning solutions with harsh chemicals and our soap does not leave any residual odor.<br><u>At this time, we only perform work on Ground Floor or 1st story windows. Anything that requires a ladder to reach is NOT considered Ground Floor work.</u> Because we don't service jobs requiring ladders and other expensive equipment, the savings can be passed on to you resulting in a lower price compared to the competition. 
     </p>
   </div>
   
