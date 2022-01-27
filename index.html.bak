@@ -18,8 +18,11 @@
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
-  <div class="w3-container">
-    <h3 class="w3-padding-64"><b>Aperture<br>Window<br>Cleaning</b></h3>
+  <div class="w3-container" style="background-image:url(img/Logo2.png); background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 50px;">
+    <h3 class="w3-padding-64">
+	</h3>
   </div>
   <div class="w3-bar-block">
     <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
@@ -50,12 +53,13 @@
   </div>
   
   <!-- Photo grid (modal) -->
-  <div><h1 class="w3-xxxlarge w3-text-red"><b>Showcase.</b></h1>
+  <div>
+		<h1 class="w3-xxxlarge w3-text-red"><b>Showcase.</b></h1>
+		<hr style="width:50px;border:5px solid red" class="w3-round">
   
 	</div>
   
   <div class="w3-row-padding">
-    <hr style="width:50px;border:5px solid red" class="w3-round">
     <div class="w3-half">
       <img src="img/showcase1.jpg" style="width:100%" onclick="onClick(this)" alt="Cat approved work">
       <img src="img/showcase3.jpg" style="width:100%" onclick="onClick(this)" alt="Obstacles easily overcome">
