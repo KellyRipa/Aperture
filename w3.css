@@ -1,5 +1,5 @@
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
-html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit;}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
@@ -9,7 +9,7 @@ a{background-color:transparent}a:active,a:hover{outline-width:0}
 abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
 b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}
 small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
-sub{bottom:-0.25em}sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none}
+sub{bottom:-0.25em}sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none;}
 code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}
 button,input,select,textarea,optgroup{font:inherit;margin:0}optgroup{font-weight:bold}
 button,input{overflow:visible}button,select{text-transform:none}
@@ -43,7 +43,8 @@ hr{
 	border:0;
 	border-top:1px solid #eee;
 	margin:20px 0}
-.w3-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
+.w3-image{max-width:50%;height:auto;}img{vertical-align:middle}a{color:inherit}
+@media (max-width:600px){.w3-image{max-width:70%;!important;}}
 .w3-table,.w3-table-all{
 	border-collapse:collapse;
 	border-spacing:0;
@@ -145,13 +146,13 @@ hr{
 .w3-responsive{display:block;overflow-x:auto}
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
 .w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
-.w3-col,.w3-half,.w3-third,.w3-twothird,.w3-threequarter,.w3-quarter{float:left;width:100%}
+.w3-col,.w3-half,.w3-third,.w3-twothird,.w3-threequarter,.w3-quarter{float:left;}
 .w3-col.s1{width:8.33333%}.w3-col.s2{width:16.66666%}.w3-col.s3{width:24.99999%}.w3-col.s4{width:33.33333%}
 .w3-col.s5{width:41.66666%}.w3-col.s6{width:49.99999%}.w3-col.s7{width:58.33333%}.w3-col.s8{width:66.66666%}
 .w3-col.s9{width:74.99999%}.w3-col.s10{width:83.33333%}.w3-col.s11{width:91.66666%}.w3-col.s12{width:99.99999%}
-@media (max-width:600px){.w3-col.m6,.w3-half{width:50%;padding:10px!important}}
+@media (max-width:600px){.w3-col.m6,.w3-half{width:33%;padding:5px !important;}}
 @media (min-width:601px){.w3-col.m1{width:8.33333%}.w3-col.m2{width:16.66666%}.w3-col.m3,.w3-quarter{width:24.99999%}.w3-col.m4,.w3-third{width:33.33333%}
-.w3-col.m5{width:41.66666%}.w3-col.m6,.w3-half{width:39.99999%;}.w3-col.m7{width:58.33333%}.w3-col.m8,.w3-twothird{width:66.66666%}
+.w3-col.m5{width:41.66666%}.w3-col.m6,.w3-half{width:32.99999%;}.w3-col.m7{width:58.33333%}.w3-col.m8,.w3-twothird{width:66.66666%}
 .w3-col.m9,.w3-threequarter{width:74.99999%}.w3-col.m10{width:83.33333%}.w3-col.m11{width:91.66666%}.w3-col.m12{width:99.99999%}}
 @media (min-width:993px){.w3-col.l1{width:8.33333%}.w3-col.l2{width:16.66666%}.w3-col.l3{width:24.99999%}.w3-col.l4{width:33.33333%}
 .w3-col.l5{width:41.66666%}.w3-col.l6{width:49.99999%}.w3-col.l7{width:58.33333%}.w3-col.l8{width:66.66666%}
@@ -183,8 +184,8 @@ hr{
 .w3-display-position{position:absolute}
 .w3-circle{border-radius:50%}
 .w3-round-small{border-radius:2px}.w3-round,.w3-round-medium{border-radius:4px}.w3-round-large{border-radius:8px}.w3-round-xlarge{border-radius:16px}.w3-round-xxlarge{border-radius:32px}
-.w3-row-padding,.w3-row-padding>.w3-half,.w3-row-padding>.w3-third,.w3-row-padding>.w3-twothird,.w3-row-padding>.w3-threequarter,.w3-row-padding>.w3-quarter,.w3-row-padding>.w3-col{padding:0 50px;}
-.w3-container,.w3-panel{padding:0.01em 16px;background-color: #262626;}.w3-panel{margin-top:16px;margin-bottom:16px}
+.w3-row-padding,.w3-row-padding>.w3-half,.w3-row-padding>.w3-third,.w3-row-padding>.w3-twothird,.w3-row-padding>.w3-threequarter,.w3-row-padding>.w3-quarter,.w3-row-padding>.w3-col{padding:0 10px;}
+.w3-container,.w3-panel{padding:5px 0px;background-color: #262626;}.w3-panel{margin-top:16px;margin-bottom:16px}
 .w3-code,.w3-codespan{font-family:Consolas,"courier new";font-size:16px}
 .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
 .w3-codespan{color:crimson;background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}

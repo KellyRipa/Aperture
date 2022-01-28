@@ -63,14 +63,21 @@
     <div class="w3-half">
       <img src="img/showcase1.jpg" style="width:100%" onclick="onClick(this)" alt="Cat approved work">
       <img src="img/showcase3.jpg" style="width:100%" onclick="onClick(this)" alt="Obstacles easily overcome">
-      <img src="img/showcase5.jpg" style="width:100%" onclick="onClick(this)" alt="Interior windows">
+      
     </div>
 
     <div class="w3-half">
       <img src="img/showcase2.jpg" style="width:100%" onclick="onClick(this)" alt="Physical grids no problem to clean">
       <img src="img/showcase4.jpg" style="width:100%" onclick="onClick(this)" alt="Divided Windows">
-      <img src="img/showcase6-crop.jpg" style="width:100%" onclick="onClick(this)" alt="Goat :)">
+      
     </div>
+	
+	<div class="w3-half">
+		<img src="img/showcase5.jpg" style="width:100%" onclick="onClick(this)" alt="Interior windows">
+		<img src="img/showcase6-crop.jpg" style="width:100%" onclick="onClick(this)" alt="Goat :)">
+	
+	</div>
+	
   </div>
 
   <!-- Modal for full size images on click-->
