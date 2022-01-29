@@ -112,8 +112,8 @@ hr{
 .w3-bar-block .w3-dropdown-hover .w3-dropdown-content,.w3-bar-block .w3-dropdown-click .w3-dropdown-content{min-width:100%}
 .w3-bar-block .w3-dropdown-hover .w3-button,.w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px}
 .w3-main,#main{transition:margin-left .4s}
-.w3-logo{width: 30%!important;}
-@media (max-width:600px){.w3-logo{width: 60%!important;}}
+.w3-logo{width: 40%!important;}
+@media (max-width:900px){.w3-logo{width: 60%!important;}}
 .w3-modal{
 	z-index:3;
 	display:none;
