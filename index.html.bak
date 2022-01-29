@@ -19,7 +19,7 @@
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
-  <div class="w3-container" style="background-image:url(img/Logo2.png); background-size: contain;
+  <div class="w3-container-logo" style="background-image:url(img/Logo2.png); background-size: contain;
     background-repeat: no-repeat;
     background-position-x: 50px;">
     <h3 class="w3-padding-64">
@@ -48,8 +48,8 @@
 <div class="w3-main" style="margin-left:340px;margin-right:40px">
 
   <!-- Header -->
-  <div class="w3-container" id="showcase">
-    <img src= "img/Logo.png" alt="logo" style="display:block; width:49.9999%; margin-left: auto; margin-right: auto">
+  <div class="w3-container-logo" id="showcase">
+    <img class="w3-image" src= "img/Logo.png" alt="logo" style="display:block; width:49.9999%; margin-left: auto; margin-right: auto">
   </div>
   
   <!-- Photo grid (modal) -->
