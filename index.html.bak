@@ -12,14 +12,14 @@
     body {font-size:16px;}
     .w3-half img{margin-bottom:-6px;margin-top:35px;opacity:0.8;cursor:pointer}
     .w3-half img:hover{opacity:1}
-    </style>
+    </style> 
   </head>
 <body> 
 
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
-  <div class="w3-container" style="background-image:url(img/Logo2.png); background-size: contain;
+  <div class="w3-nav-logo" style="background-image:url(img/Logo2.png); background-size: contain;
     background-repeat: no-repeat;
     background-position-x: 50px;">
     <h3 class="w3-padding-64">
@@ -148,7 +148,7 @@
 </div>
 
 <!-- W3.CSS Container -->
-<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Made with <a href="https://www.w3schools.com/spaces" title="W3Schools Spaces" target="_blank" class="w3-hover-opacity">W3Schools Spaces</a></p></div>
+<div class="w3-light-grey w3-padding-32" style="margin-top:75px;padding-right:58px; width:100%"><p class="w3-right">Made with <a href="https://www.w3schools.com/spaces" title="W3Schools Spaces" target="_blank" class="w3-hover-opacity">W3Schools Spaces</a></p></div>
 
 <script>
 // Script to open and close sidebar
