@@ -163,8 +163,10 @@ hr{
 	border-color: #fff;
 }
 .review {
-	border-style: dotted;
+	border-style: groove;
+	border-width: 5px;
 	text-align: center;
+	display: inline-block;
 }
 .review-text{
 	color: red;
