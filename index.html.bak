@@ -11,6 +11,14 @@
 
   gtag('config', 'UA-222743949-1');
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8EGY5VMPZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8EGY5VMPZK');
+		</script>
     <title>Aperture</title>
 	<link rel="icon" href="img/LogoIcon.png">
     <meta charset="UTF-8">
@@ -43,6 +51,7 @@
     <a href="#service" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Service</a> 
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
 	<a href="tel:+17074353662‬" class="w3-bar-item">Call/Text <br>(707) 435-3662‬</a>
+	<a href="https://g.page/r/Cbz46sF4_9TrEAI/review">Leave a review here!</a>
   </div>
 </nav>
 
@@ -140,6 +149,8 @@
     <p>Estimates can typically be done with your address provided and a quick look at Google Earth. In your message please include:<br>-your address OR<br>-# of windows (counting in panes is preferred i.e. 1 window with 2 sliding pieces and 1 fixed piece is 3 panes).<br>-whether you want a price for inside & outside or just the outside cleaned.<br>-any other details you think we should know.</p>
 	
 	<p>All estimate prices include cleaning your screens.</p>
+	
+	<p> <a href="https://g.page/r/Cbz46sF4_9TrEAI/review">CLICK HERE</a> to leave a review!</p>
 	
     <form action="https://formsubmit.co/e1b998eb75c195371e62ab3006a70a45" method="POST">
 		<!-- Honeypot -->
