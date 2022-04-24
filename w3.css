@@ -162,6 +162,15 @@ hr{
 	border-style:solid;
 	border-color: #fff;
 }
+.review {
+	border-style: dotted;
+	text-align: center;
+}
+.review-text{
+	color: red;
+	
+	
+}
 .w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
 .w3-responsive{display:block;overflow-x:auto}
 @media (min-width: 960px){.w3-container{margin:0px 10px; width: 75%;}} 
